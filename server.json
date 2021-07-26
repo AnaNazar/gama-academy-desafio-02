@@ -1,0 +1,95 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Notebook Gamer Lenovo Legion 5i",
+            "price": 8999.10,
+            "stock": 5,
+            "image_url": "https://a-static.mlcdn.com.br/618x463/notebook-gamer-legion-5i-i7-10750h-16gb-512gb-ssd-rtx2060-6gb-w10-15-6-full-hd-wva-82cf0002br-lenovo/lenovobrasil/82cf0002br/a93a07948175c5ab141e7970c057ce45.jpg",
+            "description": "Desenvolvido especialmente para gamers profissionais e usuários que precisam de alta performance."
+        },
+        {
+            "id": 2,
+            "name": "Cadeira Gamer XT Racer",
+            "price": 1567.41,
+            "stock": 10,
+            "image_url": "https://a-static.mlcdn.com.br/618x463/cadeira-gamer-xt-racer-reclinavel-preta-platinum-w-series-xtr-010/magazineluiza/225508500/7e722a70bce5446135ccc95881e8e5a1.jpg",
+            "description": "A cadeira Gamer da XT Racer giratória é uma ótima opção para quem procura conforto e qualidade."
+        },
+        {
+            "id": 3,
+            "name": "Monitor Gamer Odyssey G5",
+            "price": 4217.05,
+            "stock": 7,
+            "image_url": "https://a-static.mlcdn.com.br/1500x1500/monitor-gamer-samsung-curvo-odyssey-34-led-ultra-wqhd-hz-hdmi-premium-serie-g5-preto/zoo/106520/12773ac2311d4b8250a72ed29186f47d.jpg",
+            "description": "O Monitor Gamer Samsung 34” LED Curvo proporciona uma experiência de imersão e alta tecnologia."
+        },
+        {
+            "id": 4,
+            "name": "Teclado Gamer MITRA RGB Redragon Switch Preto",
+            "price": 310.11,
+            "stock": 25,
+            "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/1518144/7/1518144738_1SZ.jpg",
+            "description": "Teclado mecânico de alto desempenho com vários modos de iluminação RGB, fabricado com o renomado Switch Mecânico Outemu Black."
+        }
+    ],
+    "customers": 
+    [
+        {
+            "cpf": "79704751753",
+            "name": "Kevin Benício Anderson Nogueira",
+            "email": "kevinnogueira@hotmail.com",
+            "phone_number": "98983798377",
+            "address": {
+                "street": "Rua Edilson Fontoura",
+                "number": 390,
+                "district": "Jardim Alvorada",
+                "city": "São Luís",
+                "uf": "MA",
+                "cep": "65045013"
+            }
+        },
+        {
+            "cpf": "50558926096",
+            "name": "Letícia Sophia Assunção",
+            "email": "leticiasophiaassuncao-93@gmail.com",
+            "phone_number": "71982459209",
+            "address": {
+                "street": "Travessa Rosineide",
+                "number": 980,
+                "district": "Tancredo Neves",
+                "city": "Salvador",
+                "uf": "BA",
+                "cep": "41207165"
+            }
+        },
+        {
+            "cpf": "87336545300",
+            "name": "Patrícia Lavínia Silvana Baptista",
+            "email": "pati_baptista-96@gmail.com",
+            "phone_number": "67997953841",
+            "address": {
+                "street": "Rua Francisco Otaviano",
+                "number": 160,
+                "district": "Alves Pereira",
+                "city": "Campo Grande",
+                "uf": "MS",
+                "cep": "79071386"
+            }
+        },
+        {
+            "cpf": "21316700879",
+            "name": "Maya Raimunda da Cruz",
+            "email": "maycruz@yahoo.com.br",
+            "phone_number": "44985406860",
+            "address": {
+                "street": "Rua Treze de Maio",
+                "number": 226,
+                "district": "Jardim Colibri",
+                "city": "Umuarama",
+                "uf": "PR",
+                "cep": "87506340"
+            }
+        }
+    ]    
+}
